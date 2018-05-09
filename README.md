@@ -14,4 +14,4 @@
 	+ git add 出现冲突的文件
 	+ git commit -m '冲突文件'
 ### 解决报错之后,进行提交
-	+ git push origin test
+	+ git push origin test 
